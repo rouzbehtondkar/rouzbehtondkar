@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Rouzbeh 👋</h1>
-<h3 align="center">Unleashing Full-Stack Magic from IRAN 🔥</h3>
+<h3 align="center">Unleashing Frontend develpoer Magic from IRAN 🔥</h3>
 hi, i'm [Rouzbeh Tondkar](https://github.com/rouzbehtondkar), a passionate self-taught frontend web developer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 - 🔭 Currently crafting awesomeness at **PishroDM** 🚀
